@@ -1,6 +1,6 @@
 # Introduction
 
-Fibonacci levels are a technical analysis tool used by some traders to identify potential support and resistance levels. The principle for determining these levels is to take the distance between selected reference high and low points (swing high and swing low in general) as 1 unit and mark the ratios derived from the Fibonacci sequence, such as 0.236, 0.382, 0.618, etc., over this 1 unit.
+Fibonacci Retracement tool is technical analysis tool used by some traders to identify potential support and resistance levels. The principle for determining these levels is to take the distance between selected reference high and low points (swing high and swing low in general) as 1 unit and mark the ratios derived from the Fibonacci sequence, such as 0.236, 0.382, 0.618, etc., over this 1 unit.
 
 In the conventional method of level determination, the 1 unit is divided into equal distances within itself, and Fibonacci levels are determined based on these equal distances. These types of levels are called **Linear Levels**. A relatively less common method involves dividing the 1 unit into progressively smaller, more accurately described as proportionally equal, distances and determining Fibonacci levels based on these distances. These types are called **Logarithmic Levels**. 
 
