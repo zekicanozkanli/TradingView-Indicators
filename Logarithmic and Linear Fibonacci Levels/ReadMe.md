@@ -38,7 +38,7 @@ Additionally, when the Super Chart is scaled logarithmically, it prevents the ab
 - _(unsolved)_ Optimization and cleaner script is needed to ensure that the indicator does not cause any run time errors, if new features is desired to be added. 
 
 
-***Coming Features***
+***Upcoming Features***
 
 - _(not added)_ Add `noise` option. This option creates new levels by adding and subtracting a margin of error, determined by the user, to the prices corresponding to the Fibonacci levels. In cases where prices may not exactly touch the levels, this function provides traders with a more flexible and faster usage. However, we are first needed to optimize the script to ensure that the `noise` function does not cause any run time errors.
 - _(not added)_ When `Labels Left` and `Extend Left` is enabled, show price labels at the left edge of the chart.
