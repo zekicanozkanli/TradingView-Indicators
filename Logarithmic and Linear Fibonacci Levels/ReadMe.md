@@ -8,6 +8,8 @@ The purpose of this indicator is to facilitate the determination of both Linear 
 
 # Applications
 
+![Fibonacci Levels](linlogfiblevels.jpg)
+
 **Logarithmic Levels** can be utilized in any market instrument where volatility is high. In the cryptocurrency market, Logarithmic Levels perform particularly well for $BTC (to observe this, study for the wick from January 23, 2024).
 
 Additionally, Logarithmic Levels can be used to identify potential accumulation and distribution patterns in altcoins with relatively high volume and market capitalization (e.g., $FETUSDT). In traditional markets, these levels can be useful for analyzing stocks with highly inflated or deflated prices (e.g., $TSLA, $NVDA), stocks in markets of countries experiencing high inflation (e.g., $XU100), or currency pairs of countries undergoing a recession (e.g., $JPYUSD).
