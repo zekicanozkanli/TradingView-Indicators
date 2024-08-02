@@ -1,5 +1,3 @@
-# Fibonacci Levels Indicator
-
 ## Introduction
 
 Fibonacci levels are a technical analysis tool used by some traders to identify potential support and resistance levels. The principle for determining these levels is to take the distance between selected reference high and low points (swing high and swing low in general) as 1 unit and mark the ratios derived from the Fibonacci sequence, such as 0.236, 0.382, 0.618, etc., over this 1 unit.
