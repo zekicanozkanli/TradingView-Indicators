@@ -1,3 +1,5 @@
+![Fibonacci Levels](linlog_fiblevels.png)
+
 # Introduction
 
 The Fibonacci Retracement tool is a technical analysis instrument used by traders to identify potential support and resistance levels. The principle behind determining these levels involves measuring the distance between selected reference high and low points (commonly referred to as swing high and swing low) as one unit and marking the ratios derived from the Fibonacci sequence, such as 0.236, 0.382, 0.618, etc., over this unit.
@@ -7,8 +9,6 @@ In the conventional method of level determination, the unit is divided into equa
 The purpose of this indicator is to facilitate the determination of both Linear and Logarithmic levels.
 
 # Applications
-
-![Fibonacci Levels](linlogfiblevels.jpg)
 
 **Logarithmic Levels** can be utilized in any market instrument where volatility is high. In the cryptocurrency market, Logarithmic Levels perform particularly well for $BTC (to observe this, study for the wick from January 23, 2024).
 
